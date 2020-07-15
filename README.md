@@ -1,6 +1,6 @@
 ### Hi! There? 👋
 
-![Code](https://github.com/Sanchitraina1999/Sanchitraina1999/blob/master/img2.webp)
+![Code](https://github.com/Sanchitraina1999/Sanchitraina1999/blob/master/img1.webp)
 
 - 🔭 I’m currently working on figuring out "HOW TO DO THINGS"
 - 🌱 I’m currently learning "WHATEVER I CAN"
