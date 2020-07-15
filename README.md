@@ -10,5 +10,3 @@
 - 📫 How to reach me: "ASK ME"
 - 😄 JUST YOU READING THIS?
 - ⚡ Fun fact: "IT WAS SUCH A HUGE PART OF MY LIFE AND NO ONE KNEW ABOUT IT"
-
-![Code](https://github.com/Sanchitraina1999/Sanchitraina1999/blob/master/img2.jpg)
