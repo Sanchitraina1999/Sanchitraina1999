@@ -1,7 +1,6 @@
-### Hi there 👋
+### Hi! There? 👋
 
 ![Code](/dont-open/img2.jpg)
-![Code](/dont-open/img1.webp)
 
 - 🔭 I’m currently working on figuring out "HOW TO DO THINGS"
 - 🌱 I’m currently learning "WHATEVER I CAN"
@@ -11,3 +10,5 @@
 - 📫 How to reach me: "ASK ME"
 - 😄 JUST YOU READING THIS?
 - ⚡ Fun fact: "IT WAS SUCH A HUGE PART OF MY LIFE AND NO ONE KNEW ABOUT IT"
+
+![Code](/dont-open/img1.webp)
