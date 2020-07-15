@@ -1,6 +1,6 @@
 ### Hi! There? 👋
 
-![Code](/dont-open/img2.jpg)
+![Code](Sanchitraina1999/dont-open/img2.jpg)
 
 - 🔭 I’m currently working on figuring out "HOW TO DO THINGS"
 - 🌱 I’m currently learning "WHATEVER I CAN"
