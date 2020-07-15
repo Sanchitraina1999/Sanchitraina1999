@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![Code](/dont-open/img2.jpg)
+![Code](/dont-open/img1.webp)
+
 - 🔭 I’m currently working on figuring out "HOW TO DO THINGS"
 - 🌱 I’m currently learning "WHATEVER I CAN"
 - 👯 I’m looking to collaborate on ...
