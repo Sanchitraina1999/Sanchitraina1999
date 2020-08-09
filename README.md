@@ -1,4 +1,5 @@
 ### Hi! There? 👋
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Sanchitraina1999" alt="P visits" /> </p>
 
 ![Code](https://github.com/Sanchitraina1999/Sanchitraina1999/blob/master/img1.webp)
 
