@@ -1,7 +1,7 @@
 ### Hi! There? 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sanchitraina1999" alt="P visits" /> </p>
 
-![Code](banner.png)
+![Code](https://github.com/Sanchitraina1999/Sanchitraina1999/blob/master/banner.png?raw=true)
 
 - 🔭 I’m currently working on figuring out "HOW TO DO THINGS"
 - 🌱 I’m currently learning "WHATEVER I CAN"
