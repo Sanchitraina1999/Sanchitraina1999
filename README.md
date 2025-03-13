@@ -10,6 +10,9 @@ I'm a **Senior Software Engineer (Full-Stack) at BNY**, with expertise in design
 - **Messaging & Database**: Message Queues (MQ), Oracle DB
 - **Others**: SWIFT Messaging, Microservices Architecture
 
+## 🛠️ (From my experience during college days)
+- React, MongoDB, Node.js, C++
+
 ## 🚀 Key Projects & Contributions
 ### RMB – Reimbursement Financing
 - Developed a banking platform automating **claim reimbursements between financial institutions** using **SWIFT messaging (MT740, MT742, MT799, etc.)**.
