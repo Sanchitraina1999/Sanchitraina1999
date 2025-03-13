@@ -22,9 +22,11 @@ I'm a **Senior Software Engineer (Full-Stack) at BNY** and a **Problem Solver** 
 
 ### Key Contributions:
 - **Automated PDF Generation**: Developed a feature to generate and deliver **automated reports** containing key portfolio details such as asset information and financial summaries.
-- **Advanced Portfolio Capabilities**: Designed and implemented functionalities to **enhance asset management and trading capabilities**, improving overall efficiency.
+- **Advanced Sale Capabilities**: Designed and implemented functionalities to **enhance asset management and sale capabilities** for multiple sales/ multiple buyers, improving overall efficiency.
+- Implemented **PnL calculator & Insurance calculator** to forsee the amount we will make on the sale of a particular asset.
 - Successfully **streamlined portfolio management operations**, improving reporting and automation.
 - Enhanced **operational efficiency** and introduced automated solutions to optimize Portfolio Management.
+- **Enhanced Security & Compliance**: Wrote secure, efficient code. Successfully reduced vulnerabilities by approximately **50%**, strengthening system security and compliance.
 
 ## 🛠️ Tech Stack
 - **Backend**: Java, Spring Boot, REST APIs
