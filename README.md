@@ -19,8 +19,6 @@ I'm a **Senior Software Engineer (Full-Stack) at BNY** and a **Problem Solver** 
 
 ## Portfolio Management Team Experience
 - Led the development of a **Portfolio Management System**, enabling efficient tracking and management of assets.
-
-### Key Contributions:
 - **Automated PDF Generation**: Developed a feature to generate and deliver **automated reports** containing key portfolio details such as asset information and financial summaries.
 - **Advanced Sale Capabilities**: Designed and implemented functionalities to **enhance asset management and sale capabilities** for multiple sales/ multiple buyers, improving overall efficiency.
 - Implemented **PnL calculator & Insurance calculator** to forsee the amount we will make on the sale of a particular asset.
