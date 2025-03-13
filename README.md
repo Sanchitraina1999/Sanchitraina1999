@@ -9,11 +9,11 @@ I'm a **Senior Software Engineer (Full-Stack) at BNY** and a **Problem Solver** 
 - Developed a banking platform automating **claim reimbursements between financial institutions** using **SWIFT messaging (MT740, MT742, MT799, etc.)**.
 - Delivered the **Minimum Viable Product (MVP)**, onboarding **two pilot clients and one BNY branch**.
 - Built an **automated workflow system** for processing **MT740 authorization messages** via **Message Queues (MQ)**, integrating workflow steps like **Compliance Review, Data Entry, OFAC Screening, and Completion**.
-- Designed and implemented a **claims processing module** for **MT742 and MT799**, enabling 90% automation from **Claim Data Entry to Loan Approval**.
+- Designed and implemented a **claims processing module** for **MT742 and MT799**, enabling **90% automation** from **Claim Data Entry to Loan Approval**.
 - Implemented logic for **automated payment processing**: **MT202** for beneficiary payments based on claims and various fees debit conditions and financing types💸.
 - Automated **Pre-Debit Notification (MT754)**, notifying clients **three days before account debits**, eliminating manual interventions.
 - Automated **Loan Confirmation messages**, ensuring faster and error-free client communication. Created client-specific templates for confirmation messages using a reflection-based approach to dynamically populate variables, improving customization and scalability.
-- Did Prompt Engineering to automate the creation of trade loan workflows by fetching details from free format MT799 Swift message, reducing manual intervention and increasing efficiency. This feature improved the operational efficiency by 95% 🚀.
+- Did Prompt Engineering to automate the creation of trade loan workflows by fetching details from free format MT799 Swift message, reducing manual intervention and increasing efficiency. This feature improved the **operational efficiency by 95% 🚀**.
 - Contributed to the **evolution of the Reimbursement Financing Product**, delivering automated solutions that improved financial operations.
 - **Prepayments & Extensions**: Enabled features for prepayments and extensions, giving clients **greater control over their financial strategies**.
 
